@@ -5,9 +5,7 @@ python开发,ICE中间件
 
 #目录简介
         services:服务端源码
-        interface:使用slince写的接口
-        clients:python和php的客户端
-        test:python的测试程序
+        test:测试程序
 
 #运行
 ##先运行services中的服务端
